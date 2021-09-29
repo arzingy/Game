@@ -1,0 +1,35 @@
+C:\Users\Дарья\Desktop\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Дарья\Desktop\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Desktop\Game (1)\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Дарья\Desktop\Game (1)\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Desktop\Game\bin\Debug\Game.exe.config
+C:\Users\Дарья\Desktop\Game\bin\Debug\Game.exe
+C:\Users\Дарья\Desktop\Game\bin\Debug\Game.pdb
+C:\Users\Дарья\Desktop\Game\obj\Debug\Game.exe
+C:\Users\Дарья\Desktop\Game\obj\Debug\Game.pdb
+D:\ВУЗ\УП\игра\а\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\ВУЗ\УП\игра\а\Game\obj\Debug\Game.exe
+D:\ВУЗ\УП\игра\а\Game\obj\Debug\Game.pdb
+D:\ВУЗ\УП\игра\а\Game\bin\Debug\Game.exe.config
+D:\ВУЗ\УП\игра\а\Game\bin\Debug\Game.exe
+D:\ВУЗ\УП\игра\а\Game\bin\Debug\Game.pdb
+C:\Users\Дарья\Desktop\Game (4)\Game\bin\Debug\Game.exe.config
+C:\Users\Дарья\Desktop\Game (4)\Game\bin\Debug\Game.exe
+C:\Users\Дарья\Desktop\Game (4)\Game\bin\Debug\Game.pdb
+C:\Users\Дарья\Desktop\Game (4)\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Дарья\Desktop\Game (4)\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Desktop\Game (4)\Game\obj\Debug\Game.exe
+C:\Users\Дарья\Desktop\Game (4)\Game\obj\Debug\Game.pdb
+D:\ВУЗ\УП\too much folders\Game (4)\Game\bin\Debug\Game.exe.config
+D:\ВУЗ\УП\too much folders\Game (4)\Game\bin\Debug\Game.exe
+D:\ВУЗ\УП\too much folders\Game (4)\Game\bin\Debug\Game.pdb
+D:\ВУЗ\УП\too much folders\Game (4)\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\ВУЗ\УП\too much folders\Game (4)\Game\obj\Debug\Game.exe
+D:\ВУЗ\УП\too much folders\Game (4)\Game\obj\Debug\Game.pdb
+C:\Users\Дарья\Desktop\Game (12)\Game\bin\Debug\Game.exe.config
+C:\Users\Дарья\Desktop\Game (12)\Game\bin\Debug\Game.exe
+C:\Users\Дарья\Desktop\Game (12)\Game\bin\Debug\Game.pdb
+C:\Users\Дарья\Desktop\Game (12)\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Дарья\Desktop\Game (12)\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Desktop\Game (12)\Game\obj\Debug\Game.exe
+C:\Users\Дарья\Desktop\Game (12)\Game\obj\Debug\Game.pdb
